@@ -8,4 +8,5 @@
 
 ### Output 
 
-<code>press  ctrl^D </code># InterviewSolution
+<code>press  ctrl^D </code>
+
